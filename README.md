@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Software Project Management
-
+This course is designed to provide students with in depth knowledge on software project planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
