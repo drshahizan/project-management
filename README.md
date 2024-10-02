@@ -10,6 +10,19 @@
 ## Course Synopsis
 This course is designed to provide students with in depth knowledge on software project planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
 
+## 🔥 Important Things
+
+- **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
+  
+- **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+  
+- **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
+  
+- **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
+  
+- **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
