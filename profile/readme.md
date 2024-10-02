@@ -30,7 +30,7 @@
 | 19  | AFRIZAL NEHEMIA TOSCANY |    afrizalnehemia       | [:octocat:](https://github.com/afrizalnehemia)       | <a href="https://www.linkedin.com/in/afrizal-nehemia-toscany-477981114"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="EngHashi"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
 
 
