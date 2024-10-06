@@ -9,7 +9,7 @@
 
 | **Week** | **Topics** |
 |:-------:|:-----------|
-| **Week 1** | - 5W & 1H of Project Management <br>  - Myers-Briggs Type Indicator (MBTI) / DISC profiling <br> - Identify Project Manager for Group <br> - Introduction to Software Project Management (SPM) <br> - The fundamental concepts of SPM <br> - The challenges in SPM <br> - The concepts of management control in SPM|
+| **Week 1** | - Introduction to Software Project Management (SPM) <br> - The fundamental concepts of SPM <br> - The challenges in SPM <br> - The concepts of management control in SPM <br> - 5W & 1H of Project Management <br>  - Myers-Briggs Type Indicator (MBTI) / DISC profiling |
 | **Week 2** | - Project Scope Management- Work Breakdown Structure (WBS) <br> - Project Communication & Information Systems |
 | **Week 3** | - Project Types, Characteristics, Life Cycle & Stakeholders <br> - Project Human Management- Project Team & Leadership <br> - Project Organization & Control- Project Structures, Organizational Breakdown Structure (OBS) <br> - Project Time Management- AON, Scheduling, Resource Allocation & Task Assignments <br> - Task Boarding on Project Management Information System <br> - Project Planning-Tools & Charts, Network Diagrams & Gantt Charts |
 | **Week 4** | - Computer-Based Project Management Tools <br> - Project Cost Management- Budgeting, Cost Estimation <br> - Project Risk Management - Scenario Planning, Analysis & Management |
