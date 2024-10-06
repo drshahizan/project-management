@@ -13,7 +13,7 @@
 | **Week 2** | **Software Agile Project Management Principle** <br>- The fundamental and application of agile project principle <br> - The concepts of project identification, analysis, treatment and monitoring<br> - Documenting planning |
 | **Week 3** | **Software Agile Project Management Process** <br>- Dynamic Systems Development Method (DSDM) Process <br> - Scrum, Kanban, and Scrumban <br> - Project Management Tools: Tools & Charts, Network Diagrams & Gantt Charts |
 | **Week 4** | **Software Agile Planning and Control** <br>- Project Planning Concepts <br> - Testing Concepts <br> - Tracking and Control Concepts <br> - Planning throughout the Life cycle <br> - Task Boarding on Project Management Information System <br> - Planning and Quality <br> - Project Cost Management: Budgeting, Cost Estimation <br> - Project Risk Management: Scenario Planning, Analysis & Management |
-| **Week 5** | - Project Quality Management- Performance Measure & Quality <br> - Project Procurement Management |
+| **Week 5** | **Practical application of Agile PM principles** <br>- The MoSCoW Rules <br> - MoSCoW Relating to a Specific Timeframe <br>- DSDM Practice - Timeboxing <br>- The Daily Stand-up (Scrum) |
 | **Week 6** | - Information Technology Context and Process <br> - Final Project Presentation |
 | **Week 7** | - Summary & Discussion on Project Report Submission <br> - Reserved for Any Remaining Activities |
 
