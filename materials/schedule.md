@@ -6,6 +6,25 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Weekly Schedule
+# Weekly Schedule
+
+| **Week** | **Topics** |
+|:-------:|:-----------|
+| **Week 1** | Getting to know each other <br> Class rules and policies <br> 5W & 1H of Project Management |
+| **Week 2** | Introduction to Project Management <br> MBTI/DISC profiling <br> Team Gathering and Forming <br> Identify Project Manager for Group |
+| **Week 3** | Project Scope Management- Work Breakdown Structure (WBS) |
+| **Week 4** | Project Communication & Information Systems |
+| **Week 5** | Project Types, Characteristics, Life Cycle & Stakeholders <br> Project Human Management- Project Team & Leadership <br> Project Organization & Control- Project Structures, Organizational Breakdown Structure (OBS) |
+| **Week 6** | Project Time Management- AON, Scheduling, Resource Allocation & Task Assignments <br> Task Boarding on Project Management Information System <br> Project Planning-Tools & Charts, Network Diagrams & Gantt Charts |
+| **Week 7** | Computer-Based Project Management Tools <br> Project Cost Management- Budgeting, Cost Estimation |
+| **Week 8** | Mid-Semester Break |
+| **Week 9** | Project Risk Management - Scenario Planning, Analysis & Management |
+| **Week 10** | Project Quality Management- Performance Measure & Quality |
+| **Week 11** | Project Procurement Management |
+| **Week 12** | Information Technology Context and Process |
+| **Week 13** | Final Project Presentation |
+| **Week 14** | Summary & Discussion on Project Report Submission |
+| **Week 15** | Reserved for Any Remaining Activities |
 
 
 ## Contribution 🛠️
