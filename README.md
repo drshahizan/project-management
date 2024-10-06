@@ -8,7 +8,15 @@
 # Software Project Management
 
 ## Course Synopsis
-This course is designed to provide students with in depth knowledge on software project planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
+This course is designed to provide students with in depth knowledge on software
+project planning, cost estimation and scheduling, project management tools,
+factors influencing productivity and success, productivity metrics, analysis of
+options and risks, software process improvement, software contracts and
+intellectual property and approaches to maintenance and long term software
+development. This course will incorporate a work-based learning approach where
+students will have some sessions with the industrial partners. At the end of this
+course, students should be able to know how to manage a software development
+life cycle.
 
 ## 🔥 Important Things
 
