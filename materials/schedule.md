@@ -11,8 +11,7 @@
 |:-------:|:-----------|
 | **Week 1** | - Getting to know each other <br> - Class rules and policies <br> - 5W & 1H of Project Management <br> - Introduction to Project Management <br> - MBTI/DISC profiling <br> - Team Gathering and Forming <br> - Identify Project Manager for Group |
 | **Week 2** | - Project Scope Management- Work Breakdown Structure (WBS) <br> - Project Communication & Information Systems |
-| **Week 3** | - Project Types, Characteristics, Life Cycle & Stakeholders <br> - Project Human Management- Project Team & Leadership <br> - Project Organization & Control- Project Structures, Organizational Breakdown Structure (OBS) |
-|  | Project Time Management- AON, Scheduling, Resource Allocation & Task Assignments <br> Task Boarding on Project Management Information System <br> Project Planning-Tools & Charts, Network Diagrams & Gantt Charts |
+| **Week 3** | - Project Types, Characteristics, Life Cycle & Stakeholders <br> - Project Human Management- Project Team & Leadership <br> - Project Organization & Control- Project Structures, Organizational Breakdown Structure (OBS) <br> - Project Time Management- AON, Scheduling, Resource Allocation & Task Assignments <br> - Task Boarding on Project Management Information System <br> - Project Planning-Tools & Charts, Network Diagrams & Gantt Charts |
 | **Week 4** | Computer-Based Project Management Tools <br> Project Cost Management- Budgeting, Cost Estimation |
 |  | Project Risk Management - Scenario Planning, Analysis & Management |
 | **Week 5** | Project Quality Management- Performance Measure & Quality |
