@@ -13,7 +13,7 @@
 | **Week 2** | **Software Agile Project Management Principle** <br>- The fundamental and application of agile project principle <br> - The concepts of project identification, analysis, treatment and monitoring<br> - Documenting planning |
 | **Week 3** | **Software Agile Project Management Process** <br>- Dynamic Systems Development Method (DSDM) Process <br> - Scrum, Kanban, and Scrumban <br> - Project Management Tools: Tools & Charts, Network Diagrams & Gantt Charts |
 | **Week 4** | **Software Agile Planning and Control** <br>- Project Planning Concepts <br> - Testing Concepts <br> - Tracking and Control Concepts <br> - Planning throughout the Life cycle <br> - Task Boarding on Project Management Information System <br> - Planning and Quality <br> - Project Cost Management: Budgeting, Cost Estimation <br> - Project Risk Management: Scenario Planning, Analysis & Management |
-| **Week 5** | **Practical application of Agile PM principles** <br>- The MoSCoW Rules <br> - MoSCoW Relating to a Specific Timeframe <br>- DSDM Practice - Timeboxing <br>- The Daily Stand-up (Scrum) |
+| **Week 5** | **Practical application of Agile PM principles** <br>- The MoSCoW Rules <br> - MoSCoW Relating to a Specific Timeframe <br>- DSDM Practice: Timeboxing <br>- The Daily Stand-up (Scrum) |
 | **Week 6** | **Software Effort and Cost Estimation** <br>- Understanding Software Effort Estimation Basics <br> - Factors Affecting Software Development Costs<br> - Proven Techniques for Estimating Project Budgets: Function Points (FP) & COCOMO (Constructive Cost Model) |
 | **Week 7** | **Security in Software Project Management**<br>- Service Level Agreement <br> - Integration of Information Security <br> - Use of Security Tools <br> - Backup and Recovery Plans |
 
