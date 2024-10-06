@@ -9,8 +9,7 @@
 
 | **Week** | **Topics** |
 |:-------:|:-----------|
-| **Week 1** | - Getting to know each other <br> - Class rules and policies <br> - 5W & 1H of Project Management 
-<br> - Introduction to Project Management <br> - MBTI/DISC profiling <br> - Team Gathering and Forming <br> - Identify Project Manager for Group |
+| **Week 1** | - Getting to know each other <br> - Class rules and policies <br> - 5W & 1H of Project Management <br> - Introduction to Project Management <br> - MBTI/DISC profiling <br> - Team Gathering and Forming <br> - Identify Project Manager for Group |
 | **Week 2** | Project Scope Management- Work Breakdown Structure (WBS) |
 |  | Project Communication & Information Systems |
 | **Week 3** | Project Types, Characteristics, Life Cycle & Stakeholders <br> Project Human Management- Project Team & Leadership <br> Project Organization & Control- Project Structures, Organizational Breakdown Structure (OBS) |
