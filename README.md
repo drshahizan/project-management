@@ -15,7 +15,9 @@ This course is designed to provide students with in depth knowledge on software 
 - **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
   
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
-  
+
+- **[Weekly Schedule](./materials/schedule.md)**
+
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   
 - **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
