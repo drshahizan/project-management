@@ -24,7 +24,7 @@ life cycle.
   
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
 
-- **[Weekly Schedule](./materials/schedule.md)**
+- **[Weekly Schedule](./materials/schedule.md)**: A week-by-week breakdown of course topics, assignments, deadlines, and practical sessions to help students stay organized and on track throughout the semester.
 
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   
