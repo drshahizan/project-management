@@ -8,9 +8,10 @@
 # Practical application of Agile PM principles
 
 <p align="center">
-<img src="../images/week5.png"  height="800" />
+  <a href="https://drshahizan.github.io/spm/week5.html" target="_blank">
+    <img src="../images/week5.png" height="800" />
+  </a>
 </p>
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
