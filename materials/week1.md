@@ -8,7 +8,7 @@
 # Introduction to Software Project Management (SPM)
 
 <p align="center">
-  <a href="../images/week1.html">
+  <a href="https://drshahizan.github.io/spm/week1.html">
     <img src="../images/week1.png" height="800" />
   </a>
 </p>
