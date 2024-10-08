@@ -24,19 +24,17 @@ life cycle.
 
 ## 🔥 Important Things
 
-- **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
+- 🧑‍🎓 **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
   
-- **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+- 📚 **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
 
-- **[Weekly Schedule](./materials/schedule.md)**: A week-by-week breakdown of course topics. 
+- 📅 **[Weekly Schedule](./materials/schedule.md)**: A week-by-week breakdown of course topics.
 
-- **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
+- 📝 **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   
-- **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
+- 💡 **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
   
-- **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
-
-
+- 🌐 **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
