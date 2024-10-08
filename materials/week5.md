@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://drshahizan.github.io/spm/week5.html" target="_blank">
-    <img src="../images/week5.png" height="800" />
+    <img src="../images/week5.png" height="700" />
   </a>
 </p>
 
