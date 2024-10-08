@@ -62,10 +62,10 @@
    - d) Automating the software testing process
 
 10. **What is the main purpose of the "Closing" phase in the project management process?**
-   - a) To finalize all project activities and formally close the project
-   - b) To gather requirements from stakeholders
-   - c) To execute the main tasks of the project
-   - d) To plan the next phase of the project
+      - a) To finalize all project activities and formally close the project
+      - b) To gather requirements from stakeholders
+      - c) To execute the main tasks of the project
+      - d) To plan the next phase of the project
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
