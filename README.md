@@ -6,6 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Software Project Management
+![image](https://github.com/user-attachments/assets/8da30634-4b3c-4b62-a4a0-a3be7266912c)
 
 ## Course Synopsis
 This course is designed to provide students with in depth knowledge on software
