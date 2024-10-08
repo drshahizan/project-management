@@ -18,7 +18,9 @@ students will have some sessions with the industrial partners. At the end of thi
 course, students should be able to know how to manage a software development
 life cycle.
 
-![image](https://github.com/user-attachments/assets/8da30634-4b3c-4b62-a4a0-a3be7266912c)
+<p align="center">
+<img src="/images/SPM.png"  height="700" />
+</p>
 
 ## 🔥 Important Things
 
