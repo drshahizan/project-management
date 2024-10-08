@@ -11,7 +11,7 @@
 <img src="../images/week1.png"  height="800" />
 </p>
 <p align="center">
-  <a href="https://example.com">
+  <a href="../images/week1.html">
     <img src="../images/week1.png" height="800" />
   </a>
 </p>
