@@ -18,9 +18,9 @@ Key aspects of SPM include:
 5. **Monitoring and Control**: Tracking progress, managing risks, and making necessary adjustments to stay on track.
 6. **Delivery**: Ensuring the final product meets the requirements and is delivered on time²³.
 
-Source: 
-[(1) Software Project Management (SPM) – Software Engineering.](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/)
-[(2) Software project management - Wikipedia.](https://en.wikipedia.org/wiki/Software_project_management)
+Source: <br>
+[(1) Software Project Management (SPM) – Software Engineering.](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/)<br>
+[(2) Software project management - Wikipedia.](https://en.wikipedia.org/wiki/Software_project_management)<br>
 [(3) What is Software Project Management (SPM)? - Edureka.](https://www.edureka.co/blog/software-project-management/)
 
 ## Contribution 🛠️
