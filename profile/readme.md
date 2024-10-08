@@ -7,7 +7,7 @@
 
 # Student Information
 
-| No. | Name                              | ID             | Github                                  | Linkedin                                                         | Portfolio |
+| No. | Name                              | GithubID             | Github                                  | Linkedin                                                         | Portfolio |
 |-----|-----------------------------------|----------------|:---------------------------------------:|:----------------------------------------------------------------:|:-------------:|
 | 1   | ABD FARIQ BIN MOHD TAJUDIN | | [:octocat:](https://github.com/)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href=""><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | ADAM SHAH BIN MOHD FAIZAL | | [:octocat:](https://github.com/)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href=""><img src="../images/portfolio.png" width="24px" height="24px"></a> |
