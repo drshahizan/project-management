@@ -19,9 +19,6 @@ course, students should be able to know how to manage a software development
 life cycle.
 
 <p align="center">
-<img src="/images/SPM.png"  height="800" />
-</p>
-<p align="center">
   <a href="https://drshahizan.github.io/spm/PSM_overall.html" target="_blank">
     <img src="/images/SPM.png" height="800" />
   </a>
