@@ -7,6 +7,10 @@
 
 # Introduction to Software Project Management (SPM)
 
+<p align="center">
+<img src="../images/week1.png"  height="800" />
+</p>
+
 **Software Project Management (SPM)** is a specialized branch of project management that focuses on the planning, execution, monitoring, and control of software projects. It involves coordinating resources, managing timelines, and ensuring that software projects meet their objectives within the constraints of time, budget, and quality¹.
 
 Key aspects of SPM include:
