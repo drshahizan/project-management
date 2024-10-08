@@ -19,7 +19,7 @@ course, students should be able to know how to manage a software development
 life cycle.
 
 <p align="center">
-<img src="/images/SPM.png"  height="700" />
+<img src="/images/SPM.png"  height="800" />
 </p>
 
 ## 🔥 Important Things
