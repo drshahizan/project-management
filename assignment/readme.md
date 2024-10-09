@@ -9,7 +9,7 @@
 
 | No | Topic | Assignment | 
 | :-----: | ----- | :------: | 
-| Lab 1 | Introduction to Software Project Management (SPM) | <a href="assign1.md"><img src="../images/question.svg" width="24px" height="24px"></a> |
+| 1 | Introduction to Software Project Management (SPM) | <a href="assign1.md"><img src="../images/question.svg" width="24px" height="24px"></a> |
 | 2 | Software Agile Project Management Principle |  |
 | 3 | Software Agile Project Management Process |  |
 | 4 | Software Agile Planning and Control |  |
