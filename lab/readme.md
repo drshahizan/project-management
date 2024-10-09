@@ -11,11 +11,8 @@
 | :-----: | ----- | :------: | 
 | Lab 1 | Introduction to Software Project Management (SPM) | <a href="mcq_week1a.md"><img src="../images/question.svg" width="24px" height="24px"></a> |
 | 2 | Software Agile Project Management Principle |  |
-href="./materials/notes/n2ba.md"><img src="../images/answer.png" width="24px" height="24px"></a> |
 | 3 | Software Agile Project Management Process |  |
-href="./materials/notes/n3ba.md"><img src="../images/answer.png" width="24px" height="24px"></a> |
 | 4 | Software Agile Planning and Control |  |
-href="./materials/notes/n4ba.md"><img src="../images/answer.png" width="24px" height="24px"></a> |
 | 5 | Practical application of Agile PM principles |  |
 | 6 | Software Effort and Cost Estimation |  |
 | 7 | Security in Software Project Management | |
