@@ -5,11 +5,11 @@
 <a href="https://github.com/drshahizan/project-management/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/project-management?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-### Assignment 1: Implementation of a New Student Information System (SIS) at XYZ University
+# Assignment 1: Implementation of a New Student Information System (SIS) at XYZ University
 
 XYZ University, a mid-sized institution, decided to replace its outdated Student Information System (SIS) with a modern, cloud-based solution to improve the management of student records, streamline administrative processes, and enhance the student experience. The project was initiated due to inefficiencies in the old system, which caused delays in processing student registrations, handling grades, and managing financial aid.
 
-### Project Conceptualization
+## Project Conceptualization
 The university’s management team identified the need for a new system and formed a project team, including IT staff, faculty members, and external consultants. After several meetings, they defined the project's scope:
 - **Vision**: To create a seamless and efficient system that simplifies student and administrative services.
 - **Mission**: To implement a scalable and secure SIS that can handle future growth.
@@ -17,7 +17,7 @@ The university’s management team identified the need for a new system and form
 
 After the selection process, the university chose a cloud-based SIS provider. A project Terms of Reference (ToR) was established, clearly defining roles, deliverables, and timelines. The project was expected to be completed in one year.
 
-### Project Management Process
+## Project Management Process
 The project followed the **project management process groups**:
 1. **Initiation**: After receiving approval from the university’s board, the project was officially started, and the project manager was appointed.
 2. **Planning**: The project team created a detailed plan, outlining timelines, resource requirements, budget, and risks. The scope included migrating data from the old system and integrating the new SIS with existing systems.
@@ -25,7 +25,7 @@ The project followed the **project management process groups**:
 4. **Monitoring & Controlling**: The project manager regularly tracked progress, ensuring the project stayed within budget and met key milestones. When the team encountered a delay due to unexpected data migration issues, corrective measures were implemented.
 5. **Closing**: After completing the system deployment, a formal review took place, and the project was officially closed. Post-launch support was provided for several weeks to address any issues.
 
-### Challenges
+## Challenges
 The project faced several challenges:
 - **Scope Creep**: New feature requests from the administrative staff caused delays.
 - **Resource Allocation**: A shortage of skilled IT staff led to reliance on external consultants, increasing costs.
