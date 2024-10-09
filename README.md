@@ -36,7 +36,7 @@ life cycle.
   
 - 💡 **[Lab Exercise](./lab)**: Engage with exercises designed to complement your coursework and enhance learning.
 
-- ❓ **[Quiz](./quiz)**: Quiz: Test your knowledge and track your progress through quizzes.
+- ❓ **[Quiz](./quiz)**: Test your knowledge and track your progress through quizzes.
 
 
 
