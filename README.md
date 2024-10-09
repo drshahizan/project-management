@@ -28,7 +28,7 @@ life cycle.
 
 - 🧑‍🎓 **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
   
-- 📚 **[Course Information](./images/CI.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+- 📚 **[Course Information](./images/CI%20-%20SCSJ2363_Software_Project_Management.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
 
 - 📅 **[Weekly Schedule](./materials/schedule.md)**: A week-by-week breakdown of course topics.
 
