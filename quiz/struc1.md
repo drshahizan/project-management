@@ -35,7 +35,7 @@ Despite these challenges, the new system was successfully implemented, and the u
 
 ---
 
-### Questions Based on the Case Study
+### MCQ Questions
 
 1. **What project management process group was primarily responsible for defining timelines, resource requirements, and identifying risks?**
    - a) Initiation
@@ -67,7 +67,7 @@ Despite these challenges, the new system was successfully implemented, and the u
    - c) Poor quality of the student information system
    - d) Lack of stakeholder involvement in project planning
 
-### Subjective Questions Based on the Case Study
+### Subjective Questions
 
 1. How would you handle scope creep in a project like the implementation of a new Student Information System (SIS) at XYZ University? Discuss strategies you would use to control unplanned feature requests while keeping stakeholders satisfied.
 
