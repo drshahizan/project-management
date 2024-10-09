@@ -7,9 +7,9 @@
 
 # Lab Exercise
 
-| No | Topic | MCQ | 
+| No | Topic | Lab | 
 | :-----: | ----- | :------: | 
-| 1 | Introduction to Software Project Management (SPM) |  |
+| Lab 1 | Introduction to Software Project Management (SPM) | <a href="mcq_week1a.md"><img src="../images/question.svg" width="24px" height="24px"></a> |
 |  | MCQ: Set A | <a href="mcq_week1a.md"><img src="../images/question.svg" width="24px" height="24px"></a> | <a href="./materials/notes/n1aa.md"><img src="../images/answer.png" width="24px" height="24px"></a> |
 |  | MCQ: Set B | <a href="./materials/notes/n1bq.md"><img src="../images/question.svg" width="24px" height="24px"></a> | <a href="./materials/notes/n1ba.md"><img src="../images/answer.png" width="24px" height="24px"></a> |
 | 2 | Software Agile Project Management Principle |  |
