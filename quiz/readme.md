@@ -7,8 +7,6 @@
 
 # Quiz
 
-Here is the table with the "Note" column removed:
-
 | No | Topic | MCQ | 
 | :-----: | ----- | :------: | 
 | 1 | Introduction to Software Project Management (SPM) |  |
