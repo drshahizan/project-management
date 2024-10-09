@@ -35,8 +35,11 @@ life cycle.
 - 📝 **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   
 - 💡 **[Lab Exercise](./lab)**: Engage with exercises designed to complement your coursework and enhance learning.
-  
-- 🌐 **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+
+- ❓ **[Quiz](./quiz)**: Quiz: Test your knowledge and track your progress through quizzes.
+
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
