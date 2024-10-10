@@ -59,8 +59,47 @@ SPM must be aligned with the IT context in which it operates, including:
 - **IT Governance**: Ensuring that the project adheres to organizational policies, standards, and regulatory requirements.
 - **Process Integration**: Seamlessly integrating the project with other IT systems and processes to ensure smooth operation and delivery.
 
-This introduction provides a foundation for understanding the key components of Software Project Management and the intricacies involved in managing software projects.
+## Useful Materials
 
+| No. | Topic | Website |
+|-----|-------|---------|
+| 1. | **The Fundamental Concepts of SPM** | [Javatpoint - Software Project Management](https://www.javatpoint.com/software-project-management) |
+|     |       | [TutorialsPoint - Software Project Management](https://www.tutorialspoint.com/software_engineering/software_project_management.htm) |
+|     |       | [GeeksforGeeks - Software Project Management](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
+|     |       | [Holistique Training - Supplier Performance Management](https://www.holistiquetraining.com/en/news/what-is-supplier-performance-management) |
+|     |       | [Springer - Sequential Pattern Mining](https://link.springer.com/article/10.1007/s41060-024-00659-x) |
+| 2. | **Project Conceptualization: Project Definition, Selection, ToR, Vision, Mission, Objective & Scope** | McGraw Hill Education - Introduction to Software Project Management |
+|     |       | [Fiveable - Project Conceptualization](https://library.fiveable.me/key-terms/creative-producing-i/project-conceptualization) |
+|     |       | [The Digital Project Manager - Project Scope](https://thedigitalprojectmanager.com/projects/scope-management/what-is-project-scope/) |
+|     |       | [PMI - Vision, Strategy, Objectives](https://www.pmi.org/learning/library/discussing-ultimate-management-model-9903) |
+|     |       | Project Management Institute - Project Scope |
+| 3. | **Project Types, Characteristics, Life Cycle & Stakeholders** | [Resource Guru - Project Life Cycle](https://resourceguruapp.com/blog/project-management/project-life-cycle) |
+|     |       | [The Digital Project Manager - Project Life Cycle](https://thedigitalprojectmanager.com/projects/pm-methodology/project-management-life-cycle/) |
+|     |       | [Springer - Project Life Cycles](https://link.springer.com/chapter/10.1007/978-981-10-6992-5_2) |
+|     |       | [Invensis Learning - Project Management Life Cycle](https://www.invensislearning.com/blog/5-phases-project-management-lifecycle/) |
+|     |       | Project Management Institute - Project Life Cycle |
+| 4. | **Project Management Process Groups** | [Project Management Academy - Process Groups](https://projectmanagementacademy.net/articles/five-traditional-process-groups/) |
+|     |       | [ProjectManager - Process Groups](https://www.projectmanager.com/blog/project-management-process-groups) |
+|     |       | [Management.org - Project Management Phases](https://management.org/project-management-phases) |
+|     |       | PMI - Process Groups |
+|     |       | Edureka - Process Groups |
+| 5. | **The Concepts of Management Control in SPM** | [SPM Book - Execution, Monitoring, and Control](https://www.spmbook.com/downloads/slides/pdf/C03.08-09-ExecutionMonitoringControl.key.pdf) |
+|     |       | [Springer - Strategic Management Control](https://link.springer.com/chapter/10.1007/978-3-030-38640-5_1) |
+|     |       | [Marketing91 - Management Control](https://www.marketing91.com/management-control/) |
+|     |       | [Springer - Evolution of Management Control](https://link.springer.com/chapter/10.1007/978-3-642-36684-0_2) |
+|     |       | [GeeksforGeeks - Management in SPM](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
+| 6. | **The Challenges in SPM** | [Showell - Overcoming Challenges in SPM](https://www.showell.com/resources/overcoming-challenges-in-sales-performance-management) |
+|     |       | [Neocol - Addressing SPM Challenges](https://neocol.com/addressing-spm-challenges-salesforce-solutions-explored/) |
+|     |       | [GeeksforGeeks - Challenges in SPM](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
+|     |       | [Uppwise - Challenges in Strategic Portfolio Management](https://www.uppwise.com/2022/12/26/challenges-strategic-portfolio-management/) |
+|     |       | [OpenSymmetry - SPM Challenges](https://www.opensymmetry.com/resources/whitepapers/spm-challenges-technology-for-financial-services-part-one/) |
+| 7. | **Information Technology Context and Process** | [University of Cincinnati - What Is Information Technology?](https://online.uc.edu/blog/what-is-information-technology/) |
+|     |       | [ProjectManager - IT Project Management](https://www.projectmanager.com/guides/it-project-management) |
+|     |       | [Coursera - Information Technology Guide](https://www.coursera.org/articles/what-is-information-technology) |
+|     |       | [Cloudavize - Information Technology](https://www.cloudavize.com/information-technology/) |
+|     |       | [Coursera - Information Systems vs. Information Technology](https://www.coursera.org/articles/information-systems-vs-information-technology) |
+
+These resources should provide a comprehensive overview of the various aspects of Software Project Management. Let me know if you need more information or have any other questions!
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
