@@ -77,12 +77,12 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [The Digital Project Manager - Project Life Cycle](https://thedigitalprojectmanager.com/projects/pm-methodology/project-management-life-cycle/) |
 |     |       | [Springer - Project Life Cycles](https://link.springer.com/chapter/10.1007/978-981-10-6992-5_2) |
 |     |       | [Invensis Learning - Project Management Life Cycle](https://www.invensislearning.com/blog/5-phases-project-management-lifecycle/) |
-|     |       | Project Management Institute - Project Life Cycle |
+|     |       | [Project Management Institute - Project Life Cycle](https://www.pmi.org/about/what-is-a-project) |
 | 4. | **Project Management Process Groups** | [Project Management Academy - Process Groups](https://projectmanagementacademy.net/articles/five-traditional-process-groups/) |
 |     |       | [ProjectManager - Process Groups](https://www.projectmanager.com/blog/project-management-process-groups) |
 |     |       | [Management.org - Project Management Phases](https://management.org/project-management-phases) |
-|     |       | PMI - Process Groups |
-|     |       | Edureka - Process Groups |
+|     |       | [PMI - Process Groups](https://www.pmi.org/standards/process-groups) |
+|     |       | [The Five Traditional Process Groups Explained](https://projectmanagementacademy.net/articles/five-traditional-process-groups/) |
 | 5. | **The Concepts of Management Control in SPM** | [SPM Book - Execution, Monitoring, and Control](https://www.spmbook.com/downloads/slides/pdf/C03.08-09-ExecutionMonitoringControl.key.pdf) |
 |     |       | [Springer - Strategic Management Control](https://link.springer.com/chapter/10.1007/978-3-030-38640-5_1) |
 |     |       | [Marketing91 - Management Control](https://www.marketing91.com/management-control/) |
@@ -99,7 +99,6 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Cloudavize - Information Technology](https://www.cloudavize.com/information-technology/) |
 |     |       | [Coursera - Information Systems vs. Information Technology](https://www.coursera.org/articles/information-systems-vs-information-technology) |
 
-These resources should provide a comprehensive overview of the various aspects of Software Project Management. Let me know if you need more information or have any other questions!
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
