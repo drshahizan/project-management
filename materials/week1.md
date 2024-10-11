@@ -88,11 +88,11 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Marketing91 - Management Control](https://www.marketing91.com/management-control/) |
 |     |       | [Springer - Evolution of Management Control](https://link.springer.com/chapter/10.1007/978-3-642-36684-0_2) |
 |     |       | [GeeksforGeeks - Management in SPM](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
-| 6. | **The Challenges in SPM** | [Showell - Overcoming Challenges in SPM](https://www.showell.com/resources/overcoming-challenges-in-sales-performance-management) |
-|     |       | [Neocol - Addressing SPM Challenges](https://neocol.com/addressing-spm-challenges-salesforce-solutions-explored/) |
-|     |       | [GeeksforGeeks - Challenges in SPM](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
-|     |       | [Uppwise - Challenges in Strategic Portfolio Management](https://www.uppwise.com/2022/12/26/challenges-strategic-portfolio-management/) |
-|     |       | [OpenSymmetry - SPM Challenges](https://www.opensymmetry.com/resources/whitepapers/spm-challenges-technology-for-financial-services-part-one/) |
+| 6. | **The Challenges in SPM** | [GeeksforGeeks - Challenges in SPM](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
+|     |       | [Common Project Manager Challenges in Software Development](https://www.koombea.com/blog/project-manager-challenges/) |
+|     |       | [Challenges in Software Development Projects](https://idapgroup.com/blog/challenges-in-software-development-projects/) |
+|     |       | [Software project management challenges — and how to handle them](https://www.cio.com/article/432709/software-project-management-challenges-and-how-to-handle-them.html) |
+|     |       | [9 Project Management Challenges and How to Overcome Them](https://kissflow.com/project/project-management-challenges/) |
 | 7. | **Information Technology Context and Process** | [University of Cincinnati - What Is Information Technology?](https://online.uc.edu/blog/what-is-information-technology/) |
 |     |       | [ProjectManager - IT Project Management](https://www.projectmanager.com/guides/it-project-management) |
 |     |       | [Coursera - Information Technology Guide](https://www.coursera.org/articles/what-is-information-technology) |
