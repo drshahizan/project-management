@@ -123,8 +123,6 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Project Management Process](https://www.youtube.com/watch?v=BXOQ3817dcg) |
 |     |       | [Process Groups in Project Management](https://www.youtube.com/watch?v=3HRtzXu0wzg) |
 | 5. | **The Concepts of Management Control in SPM** | [Introduction To Management Control System](https://www.youtube.com/watch?v=Ypp5qC8TL0c) |
-|     |       | [Management Control in SPM](https://www.youtube.com/watch?v=_Lzq9gp7IR0) |
-|     |       | [SPM Concepts of Control](https://www.youtube.com/watch?v=iaDsc0lfMIU) |
 |     |       | [Software Project Management Control](https://www.youtube.com/watch?v=b6mcMkQONic) |
 |     |       | [Management Control Systems](https://www.youtube.com/watch?v=lYZzFGhhr04) |
 | 6. | **The Challenges in SPM** | [The 5 Biggest Challenges as a PM](https://youtu.be/0qTJ9vBa3I4?si=sPULOzUtenQ8k7q7) |
