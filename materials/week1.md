@@ -131,7 +131,6 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Challenges in Software Project Management](https://www.youtube.com/watch?v=XB6mXKs4uFc) |
 |     |       | [Overcoming SPM Challenges](https://www.youtube.com/watch?v=b6OClL1509U) |
 |     |       | [SPM Real Life Examples](https://www.youtube.com/watch?v=b6mcMkQONic) |
-|     |       | [SPM Challenges and Solutions](https://www.youtube.com/watch?v=GuzixH_XwAU) |
 | 7. | **Information Technology Context and Process** | [What is Information Technology?](https://www.youtube.com/watch?v=EyVKFNxjLH0) |
 |     |       | [IT Project Management](https://www.youtube.com/watch?v=ATxZtjcgisg) |
 |     |       | [Introduction to Information Technology](https://www.youtube.com/watch?v=7BfdMKeLTj0) |
