@@ -109,7 +109,7 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [What Is Project Management Software?](https://youtu.be/RVNbNRO9xZ0?si=k8e8l_Lij223dqJP)|
 | 2. | **Project Conceptualization: Project Definition, Selection, ToR, Vision, Mission, Objective & Scope** | [Project Conceptualization](https://www.youtube.com/watch?v=15knQ-G4PEQ) |
 |     |       | [Project Charter In Project Management](https://www.youtube.com/watch?v=GC7pN8Mjot8) |
-|     |       | Project Scope Management |
+|     |       | [What is Project Scope Management? Definition, Importance and Example](https://youtu.be/VUUa5iU3Gwk?si=u_xVlB089U03tsaj) |
 |     |       | [Project Objectives](https://www.youtube.com/watch?v=EyVKFNxjLH0) |
 |     |       | [Project Definition and Scope](https://www.youtube.com/watch?v=7BfdMKeLTj0) |
 | 3. | **Project Types, Characteristics, Life Cycle & Stakeholders** | [Project Structures & Life Cycles](https://www.youtube.com/watch?v=8unOyycCpFs) |
