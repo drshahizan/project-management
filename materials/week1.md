@@ -61,14 +61,14 @@ SPM must be aligned with the IT context in which it operates, including:
 
 # Useful Resources and References
 
-| **Category** | **Description** | **Link** |
-|--------------|----------------|----------|
-| Tender and Quotes | Information regarding tender and quotation procedures. | [Tender and Quotation](materials/tender.md) |
-| MACA User Requirements Study | Detailed study on the user requirements for MACA. | [View Document](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing) |
-| Final Year Project | Repository for undergraduate final year projects. | [GitHub Repository](https://github.com/drshahizan/undergraduate-project) |
-| Agile Concept: UTMSmart | Agile concept implementation in UTMSmart. | [View Document](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing) |
+| **Category** | **Description** |
+|--------------|----------------|
+| [Tender and Quotation](https://github.com/drshahizan/software-engineering/blob/main/proposal/materials/tender.md) | Information regarding tender and quotation procedures. |
+| [MACA User Requirements Study](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing) | Detailed study on the user requirements for MACA. |
+| [Agile Concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing) | Agile concept implementation in UTMSmart. |
+| [Final Year Project](https://github.com/drshahizan/undergraduate-project) | Repository for undergraduate final year projects. |
 
-## Useful Materials: Website
+## Additional Materials: Website
 
 | No. | Topic | Website |
 |-----|-------|---------|
