@@ -72,7 +72,7 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Fiveable - Project Conceptualization](https://library.fiveable.me/key-terms/creative-producing-i/project-conceptualization) |
 |     |       | [The Digital Project Manager - Project Scope](https://thedigitalprojectmanager.com/projects/scope-management/what-is-project-scope/) |
 |     |       | [PMI - Vision, Strategy, Objectives](https://www.pmi.org/learning/library/discussing-ultimate-management-model-9903) |
-|     |       | Project Management Institute - Project Scope |
+|     |       | [Project Management Institute - Developing a complete project scope statement in 2 days](https://www.pmi.org/learning/library/project-scope-statement-skills-tools-7981) |
 | 3. | **Project Types, Characteristics, Life Cycle & Stakeholders** | [Resource Guru - Project Life Cycle](https://resourceguruapp.com/blog/project-management/project-life-cycle) |
 |     |       | [The Digital Project Manager - Project Life Cycle](https://thedigitalprojectmanager.com/projects/pm-methodology/project-management-life-cycle/) |
 |     |       | [Springer - Project Life Cycles](https://link.springer.com/chapter/10.1007/978-981-10-6992-5_2) |
