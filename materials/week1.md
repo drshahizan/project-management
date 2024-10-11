@@ -63,6 +63,7 @@ SPM must be aligned with the IT context in which it operates, including:
 
 | **Category** | **Description** |
 |--------------|----------------|
+| [Github Software Engineering](https://github.com/drshahizan/software-engineering/) | Information regarding tender and quotation procedures. |
 | [Tender and Quotation](https://github.com/drshahizan/software-engineering/blob/main/proposal/materials/tender.md) | Information regarding tender and quotation procedures. |
 | [MACA User Requirements Study](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing) | Detailed study on the user requirements for MACA. |
 | [Agile Concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing) | Agile concept implementation in UTMSmart. |
