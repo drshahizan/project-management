@@ -68,7 +68,7 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [GeeksforGeeks - Software Project Management](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
 |     |       | [Holistique Training - Supplier Performance Management](https://www.holistiquetraining.com/en/news/what-is-supplier-performance-management) |
 |     |       | [Springer - Sequential Pattern Mining](https://link.springer.com/article/10.1007/s41060-024-00659-x) |
-| 2. | **Project Conceptualization: Project Definition, Selection, ToR, Vision, Mission, Objective & Scope** | McGraw Hill Education - Introduction to Software Project Management |
+| 2. | **Project Conceptualization: Project Definition, Selection, ToR, Vision, Mission, Objective & Scope** | [McGraw Hill Education - Introduction to Software Project Management](https://highered.mheducation.com/sites/dl/free/007709834x/46260/ch01.pdf) |
 |     |       | [Fiveable - Project Conceptualization](https://library.fiveable.me/key-terms/creative-producing-i/project-conceptualization) |
 |     |       | [The Digital Project Manager - Project Scope](https://thedigitalprojectmanager.com/projects/scope-management/what-is-project-scope/) |
 |     |       | [PMI - Vision, Strategy, Objectives](https://www.pmi.org/learning/library/discussing-ultimate-management-model-9903) |
