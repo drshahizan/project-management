@@ -75,7 +75,6 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Project Management Institute - Developing a complete project scope statement in 2 days](https://www.pmi.org/learning/library/project-scope-statement-skills-tools-7981) |
 | 3. | **Project Types, Characteristics, Life Cycle & Stakeholders** | [Resource Guru - Project Life Cycle](https://resourceguruapp.com/blog/project-management/project-life-cycle) |
 |     |       | [The Digital Project Manager - Project Life Cycle](https://thedigitalprojectmanager.com/projects/pm-methodology/project-management-life-cycle/) |
-|     |       | [Springer - Project Life Cycles](https://link.springer.com/chapter/10.1007/978-981-10-6992-5_2) |
 |     |       | [Invensis Learning - Project Management Life Cycle](https://www.invensislearning.com/blog/5-phases-project-management-lifecycle/) |
 |     |       | [Project Management Institute - Project Life Cycle](https://www.pmi.org/about/what-is-a-project) |
 | 4. | **Project Management Process Groups** | [Project Management Academy - Process Groups](https://projectmanagementacademy.net/articles/five-traditional-process-groups/) |
