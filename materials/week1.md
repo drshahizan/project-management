@@ -83,7 +83,6 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [PMI - Process Groups](https://www.pmi.org/standards/process-groups) |
 |     |       | [The Five Traditional Process Groups Explained](https://projectmanagementacademy.net/articles/five-traditional-process-groups/) |
 | 5. | **The Concepts of Management Control in SPM** | [SPM Book - Execution, Monitoring, and Control](https://www.spmbook.com/downloads/slides/pdf/C03.08-09-ExecutionMonitoringControl.key.pdf) |
-|     |       | [Springer - Strategic Management Control](https://link.springer.com/chapter/10.1007/978-3-030-38640-5_1) |
 |     |       | [Marketing91 - Management Control](https://www.marketing91.com/management-control/) |
 |     |       | [Springer - Evolution of Management Control](https://link.springer.com/chapter/10.1007/978-3-642-36684-0_2) |
 |     |       | [GeeksforGeeks - Management in SPM](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/) |
