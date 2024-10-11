@@ -59,7 +59,7 @@ SPM must be aligned with the IT context in which it operates, including:
 - **IT Governance**: Ensuring that the project adheres to organizational policies, standards, and regulatory requirements.
 - **Process Integration**: Seamlessly integrating the project with other IT systems and processes to ensure smooth operation and delivery.
 
-## Useful Materials
+## Useful Materials: Website
 
 | No. | Topic | Website |
 |-----|-------|---------|
@@ -98,6 +98,47 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Coursera - Information Technology Guide](https://www.coursera.org/articles/what-is-information-technology) |
 |     |       | [Cloudavize - Information Technology](https://www.cloudavize.com/information-technology/) |
 |     |       | [Coursera - Information Systems vs. Information Technology](https://www.coursera.org/articles/information-systems-vs-information-technology) |
+
+## Useful Materials: YouTube
+
+| No. | Topic | YouTube |
+|-----|-------|---------|
+| 1. | **The Fundamental Concepts of SPM** | [SPM (Software Project Management) with real life examples](https://www.youtube.com/watch?v=b6mcMkQONic) |
+|     |       | [Software project management | SPM UNIT 1 - PART 1 | AKTU](https://www.youtube.com/watch?v=vmSLu_Onai0) |
+|     |       | Introduction to Software Project Management |
+|     |       | Software Project Management Overview |
+|     |       | Software Project Management Fundamentals |
+| 2. | **Project Conceptualization: Project Definition, Selection, ToR, Vision, Mission, Objective & Scope** | [Project Conceptualization](https://www.youtube.com/watch?v=15knQ-G4PEQ) |
+|     |       | [Project Charter In Project Management](https://www.youtube.com/watch?v=GC7pN8Mjot8) |
+|     |       | Project Scope Management |
+|     |       | [Project Objectives](https://www.youtube.com/watch?v=EyVKFNxjLH0) |
+|     |       | [Project Definition and Scope](https://www.youtube.com/watch?v=7BfdMKeLTj0) |
+| 3. | **Project Types, Characteristics, Life Cycle & Stakeholders** | [Project Structures & Life Cycles](https://www.youtube.com/watch?v=8unOyycCpFs) |
+|     |       | [Project Life Cycle, 4 Stages](https://www.youtube.com/watch?v=-DqIBgb_fpU) |
+|     |       | [Project Management Life Cycle](https://www.youtube.com/watch?v=-GwBNwZOPUs) |
+|     |       | [Various Project Life Cycles](https://www.youtube.com/watch?v=3HRtzXu0wzg) |
+|     |       | [Project Life Cycle Guide](https://www.youtube.com/watch?v=8unOyycCpFs) |
+| 4. | **Project Management Process Groups** | [Project Management Process Groups](https://www.youtube.com/watch?v=MlftXG7qnpw) |
+|     |       | [Process Groups and Tailoring Your Project](https://www.youtube.com/watch?v=PFzjw1l6WB4) |
+|     |       | [PMBOK® Guide Processes Explained](https://www.youtube.com/watch?v=GC7pN8Mjot8) |
+|     |       | [Project Management Process](https://www.youtube.com/watch?v=BXOQ3817dcg) |
+|     |       | [Process Groups in Project Management](https://www.youtube.com/watch?v=3HRtzXu0wzg) |
+| 5. | **The Concepts of Management Control in SPM** | [Introduction To Management Control System](https://www.youtube.com/watch?v=Ypp5qC8TL0c) |
+|     |       | [Management Control in SPM](https://www.youtube.com/watch?v=_Lzq9gp7IR0) |
+|     |       | [SPM Concepts of Control](https://www.youtube.com/watch?v=iaDsc0lfMIU) |
+|     |       | [Software Project Management Control](https://www.youtube.com/watch?v=b6mcMkQONic) |
+|     |       | [Management Control Systems](https://www.youtube.com/watch?v=lYZzFGhhr04) |
+| 6. | **The Challenges in SPM** | [SPM Challenges](https://www.youtube.com/watch?v=b6mcMkQONic) |
+|     |       | [Challenges in Software Project Management](https://www.youtube.com/watch?v=XB6mXKs4uFc) |
+|     |       | [Overcoming SPM Challenges](https://www.youtube.com/watch?v=b6OClL1509U) |
+|     |       | [SPM Real Life Examples](https://www.youtube.com/watch?v=b6mcMkQONic) |
+|     |       | [SPM Challenges and Solutions](https://www.youtube.com/watch?v=GuzixH_XwAU) |
+| 7. | **Information Technology Context and Process** | [What is Information Technology?](https://www.youtube.com/watch?v=EyVKFNxjLH0) |
+|     |       | [IT Project Management](https://www.youtube.com/watch?v=ATxZtjcgisg) |
+|     |       | [Introduction to Information Technology](https://www.youtube.com/watch?v=7BfdMKeLTj0) |
+|     |       | [IT Context and Process Groups](https://www.youtube.com/watch?v=xgePWK40_6U) |
+|     |       | [Information Technology Explained](https://www.youtube.com/watch?v=Y-H2JKspOyk) |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
