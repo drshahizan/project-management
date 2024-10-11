@@ -105,9 +105,8 @@ SPM must be aligned with the IT context in which it operates, including:
 |-----|-------|---------|
 | 1. | **The Fundamental Concepts of SPM** | [SPM (Software Project Management) with real life examples](https://www.youtube.com/watch?v=b6mcMkQONic) |
 |     |       | [Software project management | SPM UNIT 1 - PART 1 | AKTU](https://www.youtube.com/watch?v=vmSLu_Onai0) |
-|     |       | Introduction to Software Project Management |
-|     |       | Software Project Management Overview |
-|     |       | Software Project Management Fundamentals |
+|     |       | [Zoho Projects - The complete project management software](https://youtu.be/6NI-RitPOnE?si=FlVR_DS7sB-k4MLY) |
+|     |       | [What Is Project Management Software?](https://youtu.be/RVNbNRO9xZ0?si=k8e8l_Lij223dqJP)|
 | 2. | **Project Conceptualization: Project Definition, Selection, ToR, Vision, Mission, Objective & Scope** | [Project Conceptualization](https://www.youtube.com/watch?v=15knQ-G4PEQ) |
 |     |       | [Project Charter In Project Management](https://www.youtube.com/watch?v=GC7pN8Mjot8) |
 |     |       | Project Scope Management |
