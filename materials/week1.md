@@ -59,6 +59,15 @@ SPM must be aligned with the IT context in which it operates, including:
 - **IT Governance**: Ensuring that the project adheres to organizational policies, standards, and regulatory requirements.
 - **Process Integration**: Seamlessly integrating the project with other IT systems and processes to ensure smooth operation and delivery.
 
+# Useful Resources and References
+
+| **Category** | **Description** | **Link** |
+|--------------|----------------|----------|
+| Tender and Quotes | Information regarding tender and quotation procedures. | [Tender and Quotation](materials/tender.md) |
+| MACA User Requirements Study | Detailed study on the user requirements for MACA. | [View Document](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing) |
+| Final Year Project | Repository for undergraduate final year projects. | [GitHub Repository](https://github.com/drshahizan/undergraduate-project) |
+| Agile Concept: UTMSmart | Agile concept implementation in UTMSmart. | [View Document](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing) |
+
 ## Useful Materials: Website
 
 | No. | Topic | Website |
