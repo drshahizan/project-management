@@ -127,10 +127,8 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [SPM Concepts of Control](https://www.youtube.com/watch?v=iaDsc0lfMIU) |
 |     |       | [Software Project Management Control](https://www.youtube.com/watch?v=b6mcMkQONic) |
 |     |       | [Management Control Systems](https://www.youtube.com/watch?v=lYZzFGhhr04) |
-| 6. | **The Challenges in SPM** | [SPM Challenges](https://www.youtube.com/watch?v=b6mcMkQONic) |
-|     |       | [Challenges in Software Project Management](https://www.youtube.com/watch?v=XB6mXKs4uFc) |
-|     |       | [Overcoming SPM Challenges](https://www.youtube.com/watch?v=b6OClL1509U) |
-|     |       | [SPM Real Life Examples](https://www.youtube.com/watch?v=b6mcMkQONic) |
+| 6. | **The Challenges in SPM** | [The 5 Biggest Challenges as a PM](https://youtu.be/0qTJ9vBa3I4?si=sPULOzUtenQ8k7q7) |
+|     |       | [Software Project Management - Challenges in Software Project](https://youtu.be/HjLD80LthBw?si=bTzhpE3XgrXskF7k) |
 | 7. | **Information Technology Context and Process** | [What is Information Technology?](https://www.youtube.com/watch?v=EyVKFNxjLH0) |
 |     |       | [IT Project Management](https://www.youtube.com/watch?v=ATxZtjcgisg) |
 |     |       | [Introduction to Information Technology](https://www.youtube.com/watch?v=7BfdMKeLTj0) |
