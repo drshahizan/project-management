@@ -80,3 +80,10 @@ Here are some ideas to get you started:
 
 ![apri junaidi](https://github.com/drshahizan/research-design/assets/7279471/77186f89-a729-421e-b5cb-70347bc99a7b)
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
+
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
