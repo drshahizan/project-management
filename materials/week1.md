@@ -108,6 +108,13 @@ SPM must be aligned with the IT context in which it operates, including:
 |     |       | [Coursera - Information Systems vs. Information Technology](https://www.coursera.org/articles/information-systems-vs-information-technology) |
 
 
+#### Youtube
+| No | Title |
+|--------------:|----------------|
+| 1. | [Intro to Project Management ](https://youtu.be/rck3MnC7OXA?si=fzlpPUjLsEUjfQG8) |
+| 2. | [Professional Project Management Skills](https://youtu.be/KH-qoTqtMXE?si=ZTrcZjFBLjL39Ms9) |
+| 3. | [PProject Structures & Life Cycles](https://youtu.be/8unOyycCpFs?si=V_-j2K3r7iolDzew) |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
