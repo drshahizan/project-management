@@ -7,6 +7,8 @@
 
 # Case Study 1: UTMSmart: Revolutionizing Campus Life Through Digital Innovation
 
+
+
 The **UTMSmart** application is a comprehensive digital platform developed as part of Universiti Teknologi Malaysia’s (UTM) vision for a connected, tech-enabled campus ecosystem. It serves as a central resource to streamline essential services, supporting the dynamic needs of UTM’s students, faculty, and visitors by facilitating easy access to key campus functions, enhancing the overall campus experience.
 
 ### Key Objectives of UTMSmart
