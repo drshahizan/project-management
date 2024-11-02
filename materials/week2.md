@@ -127,6 +127,7 @@ In Agile, planning is a continuous process:
 |--------------:|----------------|
 | 1. | [What Is Agile Methodology? Introduction to Agile Methodology in Six Minutes](https://youtu.be/8eVXTyIZ1Hs?si=L01R9k_F3nUhQmYT) |
 | 2. | [What Is Agile? Agile Frameworks Explained](https://youtu.be/wmJfx7zAfQI?si=f6VFbZ24sbRKUVJ7) |
+| 3. | [Agile Frameworks - Scrum, Kanban, Lean, XP, Crystal](https://youtu.be/WjwEh15M5Rw?si=P7z0YoGBUVLF4Ig8) |
 
 
 
