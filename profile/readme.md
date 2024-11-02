@@ -28,7 +28,7 @@
 | 17   | NURUL AIDATUL AISYQIN | nurulaidatulaisyqin| [:octocat:](https://github.com/nurulaidatulaisyqin)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href=""><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 18   | NURUL HASNAA BINTI KHALIL | hasnaa| [:octocat:](https://github.com/hasnaa)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href=""><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 19   | SARAH FEDRIZ ROZE BINTI ABDULLAH | sarahroze | [:octocat:](https://github.com/sarahroze)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href=""><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 20  | APRI JUNAIDI |   aprijunaidi             | [:octocat:](https://github.com/aprijunaidi)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="aprijunaidi"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 20   | CHAN LI HERNG | Ryan03XX | [:octocat:](https://github.com/Ryan03XX)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href=""><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
