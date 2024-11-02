@@ -121,6 +121,7 @@ In Agile, planning is a continuous process:
 | 2. | [Implementing Agile Project Principles in Higher Education](w2cs2.md)|
 | 3. | [Implementing Agile Project Principles in Spotify's Development](w2cs3.md)|
 | 4. | [Applying Agile Project Principles in the Development of Microsoft Teams](w2cs4.md)|
+| 5. | [Project Identification, Analysis, Treatment, and Monitoring in the Development of Salesforce CRM](w2cs4.md)|
 
 #### Youtube
 | No | Title |
