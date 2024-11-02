@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <img src="../images/utmsmart.jpg" height="800" />
+    <img src="../images/utmsmart.jpg" height="500" />
 </p>
 
 The **UTMSmart** application is a comprehensive digital platform developed as part of Universiti Teknologi Malaysia’s (UTM) vision for a connected, tech-enabled campus ecosystem. It serves as a central resource to streamline essential services, supporting the dynamic needs of UTM’s students, faculty, and visitors by facilitating easy access to key campus functions, enhancing the overall campus experience.
