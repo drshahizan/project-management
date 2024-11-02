@@ -120,7 +120,7 @@ Spotify's implementation of Agile Project Principles demonstrates the power of a
 
 - **Kniberg, H., & Ivarsson, A.** (2012). *Scaling Agile @ Spotify*. [Spotify Engineering Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
   
-- **Kniberg, H.** (2014). *Spotify Engineering Culture (Part 1)* [Video]. YouTube. [Link](https://youtu.be/Yvfz4HGtoPc?si=2cqZZiLXQbDG2rM4)
+- **Kniberg, H.** (2014). *Spotify Engineering Culture (Part 1)* Video. [YouTube](https://youtu.be/Yvfz4HGtoPc?si=2cqZZiLXQbDG2rM4)
   
 - **Spotify Annual Reports**. (2021). [Investor Relations](https://investors.spotify.com/financials/default.aspx)
 
