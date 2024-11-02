@@ -114,6 +114,14 @@ In Agile, planning is a continuous process:
 - **Adjustments Made to Backlogs and Priorities**: Realign tasks and priorities to reflect updated requirements.
 - **Agile Planning as an Iterative Process, Open to Change**: Embrace flexibility to adapt project plans according to new information and feedback.
 
+#### Case Study
+| No | Title |
+|--------------:|----------------|
+| 1. | |
+| 2. | |
+| 3. | |
+| 4. | |
+
 ### Conclusion
 
 Software Agile Project Management Principles provide a robust framework for delivering high-quality products in dynamic environments. By focusing on core Agile values, structured frameworks, effective project handling, and flexible documentation practices, Agile enables teams to navigate uncertainty and deliver results that align with customer needs and business objectives. Agile’s adaptability and commitment to continuous improvement make it an ideal approach for software development in today’s fast-paced and innovation-driven landscape.
