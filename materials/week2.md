@@ -122,6 +122,14 @@ In Agile, planning is a continuous process:
 | 3. | [Implementing Agile Project Principles in Spotify's Development](w2cs3.md)|
 | 4. | [Applying Agile Project Principles in the Development of Microsoft Teams](w2cs4.md)|
 
+#### Youtube
+| No | Title |
+|--------------:|----------------|
+| 1. | [What Is Agile Methodology? | Introduction to Agile Methodology in Six Minutes | Simplilearn](https://youtu.be/8eVXTyIZ1Hs?si=L01R9k_F3nUhQmYT) |
+
+
+What Is Agile Methodology? | Introduction to Agile Methodology in Six Minutes | Simplilearn
+
 
 ### Conclusion
 
