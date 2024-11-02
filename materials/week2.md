@@ -129,8 +129,7 @@ In Agile, planning is a continuous process:
 | 2. | [What Is Agile? Agile Frameworks Explained](https://youtu.be/wmJfx7zAfQI?si=f6VFbZ24sbRKUVJ7) |
 | 3. | [Agile Frameworks - Scrum, Kanban, Lean, XP, Crystal](https://youtu.be/WjwEh15M5Rw?si=P7z0YoGBUVLF4Ig8) |
 | 4. | [Agile Management](https://youtu.be/km7n3DI5IWk?si=CJPneeTWyCE3rW6C) |
-
-
+| 4. | [Agile and Scrum in the Real World](https://youtu.be/1evfn3qTYGM?si=6IOjezfqewvNONni) |
 
 
 
