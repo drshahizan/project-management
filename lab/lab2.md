@@ -5,137 +5,151 @@
 <a href="https://github.com/drshahizan/project-management/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/project-management?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Lab 1 : Introduction to Software Project Management (SPM) Using GitHub
+# Lab 2: Applying Agile Project Management Principles - Case Study on Developing Malaysia's MyGOV Mobile App**
 
-This lab exercise aims to introduce students to Software Project Management (SPM) concepts by using **GitHub** to manage a software project. By the end of the exercise, students will have practical experience in creating and managing a project using GitHub tools such as **GitHub Projects**, **Issues**, **Milestones**, and **Pull Requests** to simulate the project management process.
+### Case Study Background
 
----
+The **MyGOV Mobile App** is a digital platform initiated by the Malaysian government to provide citizens with a single access point for government services. The app was designed to offer features such as accessing personal tax information, renewing vehicle licenses, and checking COVID-19 updates, allowing Malaysian citizens to engage with essential services seamlessly and efficiently. Given the complexity of the project and the need for continuous improvements based on user feedback, the development team adopted Agile Project Management Principles.
 
-#### **Lab Objective**
-- Learn how to use GitHub for managing a software project.
-- Understand the key concepts of SPM such as scope, task breakdown, scheduling, and risk management.
-- Develop skills in creating and tracking issues, milestones, and tasks using GitHub Projects and Issues.
+This lab exercise will guide you through a simulated Agile process for developing the MyGOV Mobile App. Each step will represent a phase in Agile project management, incorporating various Agile principles.
 
 ---
 
-### **Lab Exercise Outline**
+### **Lab Exercise Instructions**
+
+#### **Step 1: Project Vision and Scope Definition**
+
+1. **Objective:** Define the project's vision and scope, understanding the key objectives and stakeholder needs.
+2. **Tasks:**
+   - Identify the app’s main goal (e.g., “To create a unified digital platform for easy access to government services”).
+   - Define the core features: login portal, services directory, secure transactions, and notifications.
+   - Determine key stakeholders: Malaysian citizens, government agencies, IT security experts, and customer support.
+3. **Outcome:** Write a short paragraph describing the project's vision and scope.
+
+**Example Outcome:**  
+*The MyGOV Mobile App aims to provide a centralized platform where Malaysian citizens can access government services conveniently and securely. Core features include secure logins, access to personal tax information, license renewals, and real-time notifications for government updates. The app will be developed to ensure data privacy, ease of use, and scalability.*
 
 ---
 
-#### **Exercise 1: Setting Up a GitHub Repository**
-In this exercise, you will create a GitHub repository to manage a software project.
+#### **Step 2: Create the Product Backlog**
 
-1. **Create a New GitHub Repository**:
-   - Go to [GitHub](https://github.com) and create a new repository for your project.
-   - Name the repository **"SIS-Project"** (or another software project of your choice).
-   - Include a README file to describe the project, e.g., _"This repository contains the project management plan and code for the Student Information System (SIS) implementation at MSO University."_
-   
-2. **Initialize the Project Structure**:
-   - Add folders such as `/docs`, `/src`, and `/tests` to organize your project files.
-   - Create a `docs/project_charter.md` file and add the project charter information (Vision, Mission, Objectives, etc.).
+1. **Objective:** Develop a product backlog by listing all required features and functionalities.
+2. **Tasks:**
+   - Break down the app’s features into user stories (e.g., “As a user, I want to check my tax information so I can stay updated on my financial obligations”).
+   - Prioritize the features based on importance and user needs.
+   - Ensure security features like two-factor authentication and encrypted data storage are included.
+3. **Outcome:** Create a list of prioritized user stories for the product backlog.
 
-   **Deliverable**: Share the link to your GitHub repository.
-
----
-
-#### **Exercise 2: Defining the Project Scope Using GitHub Issues**
-In this exercise, you will use GitHub **Issues** to define the project's scope by breaking down the project into tasks.
-
-1. **Create GitHub Issues**:
-   - Go to the **Issues** tab in your repository.
-   - Create issues for each major deliverable of the project. Example:
-     - Issue #1: Requirements Gathering
-     - Issue #2: Software Development
-     - Issue #3: Data Migration
-     - Issue #4: Testing
-     - Issue #5: Deployment
-     - Issue #6: Training
-
-2. **Add Detailed Task Descriptions**:
-   - For each issue, provide a detailed description of what needs to be done. For example, under "Requirements Gathering," include tasks like meeting stakeholders and documenting requirements.
-   
-3. **Assign Team Members and Labels**:
-   - Assign each issue to a team member and use labels like "To Do," "In Progress," and "Completed" to track progress.
-
-   **Deliverable**: Submit a list of all GitHub issues created, including their descriptions and labels.
+**Example Outcome:**  
+**Product Backlog:**
+   - User Authentication: “As a user, I want to log in securely to access my information.”
+   - Tax Information Access: “As a user, I want to view my tax information securely.”
+   - License Renewal: “As a user, I want to renew my vehicle license easily.”
+   - Notifications: “As a user, I want to receive real-time updates on government announcements.”
+   - Security Features: “As a user, I want my data to be securely encrypted.”
 
 ---
 
-#### **Exercise 3: Creating a Project Plan Using GitHub Projects**
-In this exercise, you will create a **GitHub Project Board** to track your project's progress.
+#### **Step 3: Plan the First Sprint**
 
-1. **Set Up a GitHub Project**:
-   - Go to the **Projects** tab and create a new project board for **SIS Implementation**.
-   - Use the **Kanban** template to organize tasks into columns such as **To Do**, **In Progress**, and **Done**.
+1. **Objective:** Define the tasks to be completed in the first sprint, focusing on developing essential app features.
+2. **Tasks:**
+   - Select the highest-priority items from the product backlog to include in Sprint 1.
+   - Break down each user story into specific tasks (e.g., create login page, implement encryption for user data).
+   - Set a time frame for Sprint 1 (e.g., two weeks).
+3. **Outcome:** Create a Sprint Backlog for Sprint 1.
 
-2. **Add Issues to the Project Board**:
-   - Add the issues you created in Exercise 2 to the project board by linking them to the appropriate columns (e.g., add "Requirements Gathering" to the **To Do** column).
-
-3. **Track Progress**:
-   - Move issues between the columns as the tasks progress (e.g., move "Software Development" from **In Progress** to **Done** when completed).
-
-   **Deliverable**: Submit a screenshot of your GitHub Project board showing the tasks in different stages.
-
----
-
-#### **Exercise 4: Creating and Managing Milestones**
-Milestones help track the project schedule and ensure that key objectives are completed on time.
-
-1. **Create Milestones**:
-   - Go to the **Milestones** tab and create milestones for each major phase of the project. Example milestones:
-     - Milestone 1: Requirements Gathering (Due Date: 2 weeks)
-     - Milestone 2: Development (Due Date: 4 weeks)
-     - Milestone 3: Data Migration (Due Date: 6 weeks)
-     - Milestone 4: Testing (Due Date: 8 weeks)
-     - Milestone 5: Deployment & Training (Due Date: 10 weeks)
-
-2. **Link Issues to Milestones**:
-   - Assign issues to the appropriate milestones. For example, link "Document Requirements" and "Meet with Stakeholders" to **Milestone 1** (Requirements Gathering).
-
-   **Deliverable**: Submit a screenshot of your GitHub Milestones page, showing linked issues and due dates.
+**Example Outcome:**  
+**Sprint 1 Backlog:**
+   - Design and implement the login page.
+   - Set up database integration for storing user information securely.
+   - Implement two-factor authentication.
+   - Develop the tax information access feature.
+   - Create a basic notification system.
 
 ---
 
-#### **Exercise 5: Tracking and Closing Issues with Pull Requests**
-In this exercise, you will simulate the software development process by using GitHub **Pull Requests** (PR) to close issues.
+#### **Step 4: Daily Stand-up Meetings**
 
-1. **Create a Pull Request**:
-   - Make changes to the repository (e.g., update the `docs/requirements.md` file with documented requirements).
-   - Open a **Pull Request** and link it to the corresponding issue (e.g., "Document Requirements").
-   
-2. **Review and Merge the Pull Request**:
-   - Assign team members to review the PR. Once reviewed, merge the PR into the `main` branch.
-   - Close the issue automatically by including **"Closes #issue-number"** in the PR description.
+1. **Objective:** Conduct daily stand-up meetings to discuss progress, challenges, and next steps.
+2. **Tasks:**
+   - Each team member shares what they worked on, what they will work on next, and any obstacles they face.
+   - Record any blockers and assign team members to address them.
+3. **Outcome:** Practice communication and collaboration, essential for Agile teams.
 
-3. **Track the Progress**:
-   - As each issue is closed, move it to the **Done** column in your GitHub Project board.
+**Example Outcome:**  
+*Team Member A: “Yesterday, I completed the login page. Today, I will work on integrating two-factor authentication. I need help from the database team to store authentication data.”*
 
-   **Deliverable**: Submit a screenshot of the merged pull request and the closed issue.
+*Team Member B: “I am working on the tax information access feature. I need feedback from the security team on data encryption requirements.”*
 
 ---
 
-#### **Exercise 6: Risk Management with GitHub Issues**
-Identifying and managing risks is crucial to project success.
+#### **Step 5: Sprint Review**
 
-1. **Create Risk Issues**:
-   - Identify potential risks (e.g., data migration failure, delays in development) and create GitHub Issues to track them.
-   - Use labels such as **Risk** to categorize these issues.
+1. **Objective:** Review the completed tasks and demonstrate the working features to stakeholders.
+2. **Tasks:**
+   - Present completed features, such as the login page and tax information access, to the stakeholders.
+   - Gather feedback on functionality, design, and user experience.
+   - Document any changes or additional features requested by stakeholders.
+3. **Outcome:** Stakeholder feedback for future improvements and adjustments to the backlog.
 
-2. **Track Risk Resolution**:
-   - For each risk issue, document the mitigation plan and update the issue as you take action to resolve it.
-
-   **Deliverable**: Submit a list of risk issues created, including descriptions and mitigation plans.
+**Example Outcome:**  
+*Feedback: Stakeholders are satisfied with the login page and security features. They suggest adding a “Forgot Password” feature to improve user accessibility.*
 
 ---
 
-### **Lab Exercise Wrap-Up**
-By the end of this lab, students will:
-- Set up and manage a project repository on GitHub.
-- Use GitHub Issues to define tasks and track progress.
-- Use GitHub Projects to visualize the project workflow.
-- Manage milestones, pull requests, and risks using GitHub’s built-in tools.
+#### **Step 6: Sprint Retrospective**
 
-This exercise demonstrates how GitHub can be a powerful tool for project management in software development projects, giving you hands-on experience with real-world project management techniques.
+1. **Objective:** Reflect on what went well, what didn’t, and areas for improvement.
+2. **Tasks:**
+   - Discuss successes, such as the smooth development of the login feature.
+   - Identify challenges, like difficulties in integrating the database with the tax information feature.
+   - Propose changes for the next sprint, such as better documentation for security protocols.
+3. **Outcome:** Actionable insights for improving the process in future sprints.
+
+**Example Outcome:**  
+*Successes: The team completed all planned tasks within the sprint. Communication in daily stand-ups was effective.*
+
+*Challenges: Integrating security protocols took more time than expected. Next sprint, we will allocate more time to security requirements.*
+
+*Improvements: Add more detailed documentation for each security-related task.*
+
+---
+
+#### **Step 7: Update the Product Backlog and Plan Sprint 2**
+
+1. **Objective:** Adjust the product backlog based on feedback and plan the next sprint.
+2. **Tasks:**
+   - Add new features or improvements based on Sprint 1 feedback (e.g., add “Forgot Password” functionality).
+   - Re-prioritize user stories as needed, ensuring high-impact features are planned for Sprint 2.
+   - Create a new Sprint Backlog for Sprint 2.
+3. **Outcome:** Updated product backlog and Sprint Backlog for Sprint 2.
+
+**Example Outcome:**  
+**Updated Product Backlog:**
+   - High Priority: “Forgot Password” feature, secure data encryption for all user information.
+   - Medium Priority: Improvements to the notification system, multi-language support.
+
+**Sprint 2 Backlog:**
+   - Develop and test “Forgot Password” functionality.
+   - Enhance security for tax information data.
+   - Implement notification system improvements.
+
+---
+
+### **Lab Exercise Summary**
+
+This lab exercise guides you through a step-by-step Agile process for developing a national digital platform like the MyGOV Mobile App. Following Agile principles such as collaboration, iterative improvement, and responsiveness to change, you completed each step from defining project scope to updating the product backlog. Agile methodologies, including Scrum, helped ensure that each feature was developed effectively and aligned with user needs.
+
+### **Review Questions**
+
+1. **What was the primary objective of the MyGOV Mobile App, and why was Agile Project Management an effective approach for this project?**
+2. **How did creating a product backlog help the development team prioritize tasks and manage project complexity?**
+3. **What is the purpose of daily stand-up meetings, and how do they support Agile principles?**
+4. **Why is the Sprint Review important, and how does it ensure the project meets stakeholder expectations?**
+5. **What are some key lessons that can be learned from conducting Sprint Retrospectives?**
+
+This lab exercise helps you understand how Agile Project Management Principles are applied in a real-world project like the development of the MyGOV Mobile App, demonstrating how Agile can lead to faster delivery, improved quality, and greater user satisfaction.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
