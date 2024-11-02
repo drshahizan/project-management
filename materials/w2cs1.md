@@ -19,6 +19,10 @@ UTMSmart was created to align with UTM’s digital transformation goals, fosteri
 - **Unified Access to Campus Services:** The application integrates a range of services, making it easier for students and staff to stay updated on campus activities, manage academic schedules, and access campus resources.
 - **Convenience for Campus Community and Visitors:** With a user-friendly interface, UTMSmart aims to simplify campus navigation and offer information and support to visitors.
 
+| **Category** | **Description** |
+|--------------|----------------|
+| [Agile Concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing) | Agile concept implementation in UTMSmart. |
+
 ### Agile Development Methodology
 The development of UTMSmart adheres to the Agile Scrum framework, known for its iterative and flexible approach, promoting regular communication and incremental improvements. Here’s a closer look at how the Agile methodology supports UTMSmart’s development:
 
