@@ -79,6 +79,11 @@ The development of Microsoft Teams highlighted several key lessons in applying A
 
 The application of Agile Project Principles in the development of Microsoft Teams enabled Microsoft to build a robust and adaptive platform that successfully addressed the needs of a global, diverse user base. By prioritizing customer collaboration, embracing change, focusing on working software, and fostering cross-functional interactions, Microsoft delivered a solution that continues to evolve and meet the demands of modern digital collaboration. The Agile approach has proven invaluable in creating a user-centered product that is flexible, scalable, and capable of sustaining a leading position in the highly competitive market of collaboration tools.
 
+### References
+1. [Microsoft Project for the web; Agile Project Management](https://youtu.be/AvYQZgyt2P8?si=PTVwq_mTecGDeM9w)
+2. [Revolutionize Task Management with Agile Task Board | Seamless Integration with Microsoft Teams](https://youtu.be/kDHrrIM8IfA?si=_xtC5d3AG_PWMzrW)
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
