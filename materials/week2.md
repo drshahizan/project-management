@@ -125,10 +125,9 @@ In Agile, planning is a continuous process:
 #### Youtube
 | No | Title |
 |--------------:|----------------|
-| 1. | [What Is Agile Methodology? | Introduction to Agile Methodology in Six Minutes | Simplilearn](https://youtu.be/8eVXTyIZ1Hs?si=L01R9k_F3nUhQmYT) |
+| 1. | [What Is Agile Methodology? Introduction to Agile Methodology in Six Minutes](https://youtu.be/8eVXTyIZ1Hs?si=L01R9k_F3nUhQmYT) |
 
 
-What Is Agile Methodology? | Introduction to Agile Methodology in Six Minutes | Simplilearn
 
 
 ### Conclusion
