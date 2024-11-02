@@ -28,7 +28,7 @@ In this exercise, you will create a GitHub repository to manage a software proje
 1. **Create a New GitHub Repository**:
    - Go to [GitHub](https://github.com) and create a new repository for your project.
    - Name the repository **"SIS-Project"** (or another software project of your choice).
-   - Include a README file to describe the project, e.g., _"This repository contains the project management plan and code for the Student Information System (SIS) implementation at XYZ University."_
+   - Include a README file to describe the project, e.g., _"This repository contains the project management plan and code for the Student Information System (SIS) implementation at MSO University."_
    
 2. **Initialize the Project Structure**:
    - Add folders such as `/docs`, `/src`, and `/tests` to organize your project files.
