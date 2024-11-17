@@ -18,6 +18,17 @@
 | **Kanboard**        | Open-source Kanban tool for managing Agile tasks.                                                  | Yes                                | [kanboard.org](https://kanboard.org/) |
 | **ZenHub**          | Agile sprint planning integrated with GitHub, free for open-source projects.                       | Yes                                | [zenhub.com](https://www.zenhub.com/) |
 
+| Tool         | Description                                                                                     | Website                          |
+|--------------|-------------------------------------------------------------------------------------------------|----------------------------------|
+| Taiga        | Open-source project management tool supporting Scrum and Kanban methodologies.                  | [taiga.io](https://taiga.io/)    |
+| IceScrum     | Facilitates Scrum and Kanban with backlogs, sprints, tasks, and user stories.                   | [simplilearn.com](https://www.simplilearn.com/free-agile-tools-for-every-project-manager-article) |
+| Trello       | Visual task management using Kanban boards.                                                    | [trello.com](https://trello.com/) |
+| Asana        | Task and project tracking tool for organizing workflows.                                       | [asana.com](https://asana.com/) |
+| ClickUp      | Comprehensive project management tool with task tracking and collaboration features.            | [clickup.com](https://clickup.com/) |
+| Jira         | Popular tool for Agile and Scrum project management.                                           | [atlassian.com](https://www.atlassian.com/software/jira) |
+| Kanboard     | Open-source Kanban tool for managing Agile tasks.                                              | [kanboard.net](https://kanboard.net/) |
+| ZenHub       | Integrates with GitHub for Agile sprint planning.                                              | [zenhub.com](https://zenhub.com/) |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
