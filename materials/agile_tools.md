@@ -7,17 +7,6 @@
 
 # Free Agile Project Management Tools: Features and Resources
 
-| **Tool**            | **Description**                                                                                     | **Free Plan**                     | **Website**                         |
-|----------------------|-----------------------------------------------------------------------------------------------------|------------------------------------|--------------------------------------|
-| **Taiga**           | Open-source project management supporting Scrum and Kanban methodologies.                          | Yes                                | [taiga.io](https://taiga.io/)       |
-| **IceScrum**        | Agile tool with backlogs, sprints, tasks, and user stories.                                         | Yes                                | [icescrum.com](https://icescrum.com/)|
-| **Trello**          | Visual task management with Kanban boards.                                                         | Yes                                | [trello.com](https://trello.com/)   |
-| **Asana**           | Task and project tracking for teams of up to 15 users.                                             | Yes                                | [asana.com](https://asana.com/)     |
-| **ClickUp**         | Comprehensive project management tool with task tracking and collaboration features.               | Yes                                | [clickup.com](https://clickup.com/) |
-| **Jira**            | Popular tool for Agile and Scrum, free for up to 10 users.                                         | Yes                                | [atlassian.com](https://www.atlassian.com/software/jira) |
-| **Kanboard**        | Open-source Kanban tool for managing Agile tasks.                                                  | Yes                                | [kanboard.org](https://kanboard.org/) |
-| **ZenHub**          | Agile sprint planning integrated with GitHub, free for open-source projects.                       | Yes                                | [zenhub.com](https://www.zenhub.com/) |
-
 | Tool         | Description                                                                                     | Website                          |
 |--------------|-------------------------------------------------------------------------------------------------|----------------------------------|
 | Taiga        | Open-source project management tool supporting Scrum and Kanban methodologies.                  | [taiga.io](https://taiga.io/)    |
