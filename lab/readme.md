@@ -14,6 +14,7 @@
 | Lab 3 | ClickUp | <a href="https://youtu.be/MV5lrD6Y4ik?si=BM4A-zIJWaxyCqmv"><img src="../images/question.svg" width="24px" height="24px"></a> |
 | Lab 4 | Monday.com | <a href="https://youtube.com/playlist?list=PLutcJfNEwNkSzUWW3NW3858GhsDJ5XYHV&si=OLZgjcA0ffiyNI2u"><img src="../images/question.svg" width="24px" height="24px"></a> |
 | Lab 5 | Trello | <a href="https://youtu.be/en3z928rwus?si=96J2o5sGJNNtvbkh"><img src="../images/question.svg" width="24px" height="24px"></a> |
+| Lab 6 | MS Project | <a href="https://youtube.com/playlist?list=PL-MQNpO8Wb7BW0ndTYmwWpLV-WjW_4wxV&si=P44R9HoyU5lvpV60"><img src="../images/question.svg" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
