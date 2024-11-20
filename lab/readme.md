@@ -10,7 +10,7 @@
 | No | Topic | Lab | 
 | :-----: | ----- | :------: | 
 | Lab 1 | Introduction to Software Project Management (SPM) | <a href="lab1.md"><img src="../images/question.svg" width="24px" height="24px"></a> |
-| 2 | Software Agile Project Management Principle |  |
+| Lab 2 | Tutorials: monday.com | <a href="https://youtube.com/playlist?list=PLutcJfNEwNkSzUWW3NW3858GhsDJ5XYHV&si=OLZgjcA0ffiyNI2u"><img src="../images/question.svg" width="24px" height="24px"></a> |
 | 3 | Software Agile Project Management Process |  |
 | 4 | Software Agile Planning and Control |  |
 | 5 | Practical application of Agile PM principles |  |
