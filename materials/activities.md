@@ -38,7 +38,7 @@ Microsoft Excel templates for project management are versatile tools designed to
 | 26.  | Planning                  | Simple Gantt Chart MS           | Simplified Gantt chart for managing project timelines. | [link](./xls/simple-gantt-chart_ms.xlsx)|
 | 27.  | Execution                 | Task Tracker                    | Tracks tasks and their completion status within a project. | [link](./xls/task-tracker.xlsx)|
 | 28.  | Execution                 | Biweekly Work Schedule          | Work schedule template for organizing tasks over a two-week period. | [link](./xls/biweekly-work-schedule.xlsx)              |
-| 29. | Execution                 | Agile Kanban Board              | Visual board for managing tasks in Agile projects using Kanban methodology. | [link](./xls/agile-kanban-board.xlsx |
+| 29. | Execution                 | Agile Kanban Board              | Visual board for managing tasks in Agile projects using Kanban methodology. | [link](./xls/agile-kanban-board.xlsx) |
 | 30. | Execution                 | To-Do List                      | Simple list to track and manage tasks to be completed. | [link](./xls/to-do-list.xlsx)|
 | 31.  | Execution                 | Work Schedule with To-Dos       | Work schedule that integrates a to-do list for tasks. | [link](./work-schedule-with-to-dos.xlsx)|
 | 32.  | Execution                 | Daily Work Schedule             | Schedule for planning and organizing daily tasks and activities. | [link](./daily-work-schedule.xlsx)|
