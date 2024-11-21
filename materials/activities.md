@@ -40,13 +40,13 @@ Microsoft Excel templates for project management are versatile tools designed to
 | 28.  | Execution                 | Biweekly Work Schedule          | Work schedule template for organizing tasks over a two-week period. | [link](./xls/biweekly-work-schedule.xlsx)              |
 | 29. | Execution                 | Agile Kanban Board              | Visual board for managing tasks in Agile projects using Kanban methodology. | [link](./xls/agile-kanban-board.xlsx) |
 | 30. | Execution                 | To-Do List                      | Simple list to track and manage tasks to be completed. | [link](./xls/to-do-list.xlsx)|
-| 31.  | Execution                 | Work Schedule with To-Dos       | Work schedule that integrates a to-do list for tasks. | [link](./work-schedule-with-to-dos.xlsx)|
-| 32.  | Execution                 | Daily Work Schedule             | Schedule for planning and organizing daily tasks and activities. | [link](./daily-work-schedule.xlsx)|
-| 33.   | Monitoring and Controlling | Action Item Tracker             | Tracks and manages actionable items within a project or workflow. | [link](./action-item-tracker.xlsx)|
-| 34.  | Monitoring and Controlling | Earned Value Management         | Tracks project performance and progress using earned value metrics. | [link](./earned-value-management.xlsx)|
-| 35.  | Monitoring and Controlling | Project Tracking                | Template for tracking progress and performance in a project. | [link](./project-tracking.xlsx)|
-| 36.  | Monitoring and Controlling | Weekly Timecard by Project      | Weekly timecard template for tracking hours worked on projects. | [link](./weekly-timecard-by-project.xlsx)|
-| 37.  | Monitoring and Controlling | Project Timecard Summary        | Summary of timecards for tracking hours spent on projects. | [link](./project-timecard-summary.xlsx)|
+| 31.  | Execution                 | Work Schedule with To-Dos       | Work schedule that integrates a to-do list for tasks. | [link](./xls/work-schedule-with-to-dos.xlsx)|
+| 32.  | Execution                 | Daily Work Schedule             | Schedule for planning and organizing daily tasks and activities. | [link](./xls/daily-work-schedule.xlsx)|
+| 33.   | Monitoring and Controlling | Action Item Tracker             | Tracks and manages actionable items within a project or workflow. | [link](./xls/action-item-tracker.xlsx)|
+| 34.  | Monitoring and Controlling | Earned Value Management         | Tracks project performance and progress using earned value metrics. | [link](./xls/earned-value-management.xlsx)|
+| 35.  | Monitoring and Controlling | Project Tracking                | Template for tracking progress and performance in a project. | [link](./xls/project-tracking.xlsx)|
+| 36.  | Monitoring and Controlling | Weekly Timecard by Project      | Weekly timecard template for tracking hours worked on projects. | [link](./xls/weekly-timecard-by-project.xlsx)|
+| 37.  | Monitoring and Controlling | Project Timecard Summary        | Summary of timecards for tracking hours spent on projects. | [link](./xls/project-timecard-summary.xlsx)|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
