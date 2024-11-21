@@ -10,7 +10,7 @@ Microsoft Excel templates for project management are versatile tools designed to
 
 | No. | Phase                     | Meaningful Title                | Description                                                                                          | URL                                    |
 |-----:|----------------------------|----------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------|
-| 1.  | Initiation                | SWOT Analysis                   | Framework for analyzing strengths, weaknesses, opportunities, and threats.                         | [link](./xlsx/swot-analysis.xlsx) |
+| 1.  | Initiation                | SWOT Analysis                   | Framework for analyzing strengths, weaknesses, opportunities, and threats.                         | [link](/xlsx/swot-analysis.xlsx) |
 | 2. | Planning                  | Action Items Template           | Template for organizing and assigning action items for meetings or projects.                        | action-items-template.xlsx               |
 | 3.   | Planning                  | Action List with Ranking        | List of actions prioritized or ranked based on importance or urgency.                               | action-list-with-ranking.xlsx            |
 | 4.  | Planning                  | Availability Calendar           | Calendar to track and display availability for individuals or resources.                            | availability-calendar.xlsx               |
