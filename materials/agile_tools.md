@@ -10,7 +10,7 @@
 | Tool         | Description                                                                                     | Website                          |
 |--------------|-------------------------------------------------------------------------------------------------|----------------------------------|
 | Taiga        | Open-source project management tool supporting Scrum and Kanban methodologies.                  | [taiga.io](https://taiga.io/)    |
-| IceScrum     | Facilitates Scrum and Kanban with backlogs, sprints, tasks, and user stories.                   | [simplilearn.com](https://www.simplilearn.com/free-agile-tools-for-every-project-manager-article) |
+| IceScrum     | Facilitates Scrum and Kanban with backlogs, sprints, tasks, and user stories.                   | [IceScrum](https://www.icescrum.com/) |
 | Trello       | Visual task management using Kanban boards.                                                    | [trello.com](https://trello.com/) |
 | Asana        | Task and project tracking tool for organizing workflows.                                       | [asana.com](https://asana.com/) |
 | ClickUp      | Comprehensive project management tool with task tracking and collaboration features.            | [clickup.com](https://clickup.com/) |
