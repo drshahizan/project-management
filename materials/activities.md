@@ -14,7 +14,7 @@ Microsoft Excel templates for project management are versatile tools designed to
 | 2. | Planning                  | Action Items Template           | Template for organizing and assigning action items for meetings or projects. | [link](./xls/action-items-template.xlsx) |
 | 3.   | Planning                  | Action List with Ranking        | List of actions prioritized or ranked based on importance or urgency. | [link](./xls/action-list-with-ranking.xlsx) |
 | 4.  | Planning                  | Availability Calendar           | Calendar to track and display availability for individuals or resources. | [link](./xls/availability-calendar.xlsx) |
-| 5.  | Planning                  | Bubble Chart Timeline           | Visual timeline using bubble charts to highlight key milestones. | [link](./xls/ubble-chart-timeline.xlsx) |
+| 5.  | Planning                  | Bubble Chart Timeline           | Visual timeline using bubble charts to highlight key milestones. | [link](./xls/bubble-chart-timeline.xlsx) |
 | 6.  | Planning                  | Bubble Chart Timeline Vertical  | Vertical bubble chart for visualizing timelines and project phases. | [link](./xls/bubble-chart-timeline-vertical.xlsx)      |
 | 7.   | Planning                  | Content Calendar                | Calendar to plan and schedule content for marketing or communication projects. | [link](./xls/content-calendar.xlsx) |
 | 8.  | Planning                  | Construction Schedule           | Detailed schedule for managing tasks in a construction project. | [link](./xls/construction-schedule.xlsx)               |
