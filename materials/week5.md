@@ -41,6 +41,7 @@ The MoSCoW method is a highly effective prioritization framework commonly utiliz
 - **Definition**: Won’t Have features are intentionally excluded from the current scope to maintain focus on priorities and manage project constraints.
 - **Implication**: By clearly defining what won’t be included, teams can prevent scope creep and stay aligned with the project’s objectives.
 
+<img src="https://draft.io/assets/site/examples/light/en/2400/example-moscow-method-869bb54740d97ad397e316d42e263ab0.webp" height="700" />
 
 
 ### 2. MoSCoW Relating to a Specific Timeframe
