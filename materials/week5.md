@@ -69,6 +69,8 @@ MoSCoW principles are particularly effective when applied within specific timefr
 ### 3. DSDM Practice: Timeboxing
 Timeboxing is a cornerstone of Agile practices, particularly within the Dynamic Systems Development Method (DSDM). It involves setting fixed time intervals—known as sprints or iterations—to focus on specific deliverables. This structured approach ensures that projects remain on schedule and within budget while delivering consistent progress.
 
+[Dynamic System Development Method (DSDM): A Virtuous Cycle to Deliver Business Value](https://www.nimblework.com/agile/dynamic-system-development-method-dsdm/)
+
 #### 3.1 Concept of Timeboxing
 - **Definition**: Timeboxing establishes predetermined time periods during which specific tasks or features must be completed. 
 - **Purpose**: By imposing strict time limits, timeboxing promotes efficiency and encourages teams to prioritize tasks effectively.
@@ -87,7 +89,6 @@ Timeboxing is a cornerstone of Agile practices, particularly within the Dynamic 
 - **Usage**: Timeboxing is widely used in projects requiring rapid iterations, such as software development and product design.
 - **Scenarios**: Ideal for projects with dynamic requirements and a need for frequent stakeholder input, such as developing prototypes or testing new features.
 
----
 
 ### 4. The Daily Stand-up (Scrum)
 Daily stand-ups are brief, time-bound meetings (typically 15 minutes) conducted in Scrum methodologies. These meetings aim to synchronize the team, identify blockers, and plan the day’s tasks, fostering transparency and collaboration.
