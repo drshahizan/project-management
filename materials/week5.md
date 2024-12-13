@@ -61,7 +61,7 @@ MoSCoW principles are particularly effective when applied within specific timefr
 - **Key Concept**: The Could Have and Won’t Have categories provide flexibility, allowing teams to adapt to changes in timelines or resources without compromising the project’s core objectives.
 - **Outcome**: Teams can reallocate resources or shift priorities based on feedback, progress, or unexpected challenges, maintaining adaptability while staying on track.
 
-
+### [The Moscow Method: A Comprehensive Guide to Prioritization in Project Management](https://medium.com/@emre.yancizer/the-moscow-method-a-comprehensive-guide-to-prioritization-in-project-management-85f530aa1dcd)
 
 ### 3. DSDM Practice: Timeboxing
 Timeboxing is a cornerstone of Agile practices, particularly within the Dynamic Systems Development Method (DSDM). It involves setting fixed time intervals—known as sprints or iterations—to focus on specific deliverables. This structured approach ensures that projects remain on schedule and within budget while delivering consistent progress.
