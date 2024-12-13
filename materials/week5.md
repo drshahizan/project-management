@@ -49,6 +49,9 @@ The MoSCoW method is a highly effective prioritization framework commonly utiliz
 ### 2. MoSCoW Relating to a Specific Timeframe
 MoSCoW principles are particularly effective when applied within specific timeframes, such as project sprints or iterations. This approach ensures that prioritization aligns with deadlines and maximizes the delivery of high-value features within the available time.
 
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AO8buXzYVxRfAkjTIFLKuA.png" height="500" />
+
+
 #### 2.1 Prioritization for Sprints
 - **Key Concept**: During sprints, Must Have items take precedence, ensuring that the most critical deliverables align with sprint or release objectives.
 - **Benefit**: By focusing on Must Have features, teams can deliver tangible value within the constraints of each sprint, avoiding delays caused by less essential tasks.
