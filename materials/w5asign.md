@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/project-management/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/project-management?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Case Study 1: Exercise: Applying Dynamic Systems Development Method (DSDM)
+# Assignment: Applying Dynamic Systems Development Method (DSDM)
 
 **Objective:**  
 Gain hands-on experience with the DSDM framework by applying its principles to solve a real-world IT project scenario set in Malaysia. This exercise will deepen your understanding of DSDM’s practical applications, especially in environments that require a high degree of flexibility and responsiveness to change.
