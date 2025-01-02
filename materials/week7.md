@@ -13,7 +13,7 @@
   </a>
 </p>
 
-"Security in Software Project Management refers to the application of practices, tools, and strategies to ensure the protection of data, systems, and processes throughout the lifecycle of a software project. This involves safeguarding sensitive information, ensuring compliance with regulations, mitigating risks, and embedding robust security protocols into every phase of project management, from planning and development to deployment and maintenance.
+Security in Software Project Management refers to the application of practices, tools, and strategies to ensure the protection of data, systems, and processes throughout the lifecycle of a software project. This involves safeguarding sensitive information, ensuring compliance with regulations, mitigating risks, and embedding robust security protocols into every phase of project management, from planning and development to deployment and maintenance.
 
 ### 1. Service Level Agreement (SLA)
 SLAs play a critical role in defining security standards for software projects. They set clear expectations between service providers and clients, ensuring that responsibilities are well-delineated and standards are consistently met.
