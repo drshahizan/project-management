@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Software Agile Project Management Principle	
-## Multiple-Choice Questions: Set A - Software Agile Project Management Principle
+## Set A - Software Agile Project Management Principle
 
 1. **Which of the following is a key principle of Agile project management?**  
    A) Detailed upfront planning  
